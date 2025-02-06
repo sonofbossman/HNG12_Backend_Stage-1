@@ -16,7 +16,7 @@ Create an API that accepts a number via a GET request and returns:
 ## API Endpoint
 
 ```http
-GET https://<your-deployed-domain>/api/classify-number?number=371
+GET https://hng12backendstage-1-production.up.railway.app/api/classify-number?number=371
 ```
 
 ## Success Response (200 OK)
